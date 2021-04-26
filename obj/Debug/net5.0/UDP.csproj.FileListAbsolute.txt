@@ -1,0 +1,16 @@
+C:\Users\wildbober228\source\repos\UDP\UDP\bin\Debug\net5.0\UDP.exe
+C:\Users\wildbober228\source\repos\UDP\UDP\bin\Debug\net5.0\UDP.deps.json
+C:\Users\wildbober228\source\repos\UDP\UDP\bin\Debug\net5.0\UDP.runtimeconfig.json
+C:\Users\wildbober228\source\repos\UDP\UDP\bin\Debug\net5.0\UDP.runtimeconfig.dev.json
+C:\Users\wildbober228\source\repos\UDP\UDP\bin\Debug\net5.0\UDP.dll
+C:\Users\wildbober228\source\repos\UDP\UDP\bin\Debug\net5.0\ref\UDP.dll
+C:\Users\wildbober228\source\repos\UDP\UDP\bin\Debug\net5.0\UDP.pdb
+C:\Users\wildbober228\source\repos\UDP\UDP\obj\Debug\net5.0\UDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wildbober228\source\repos\UDP\UDP\obj\Debug\net5.0\UDP.AssemblyInfoInputs.cache
+C:\Users\wildbober228\source\repos\UDP\UDP\obj\Debug\net5.0\UDP.AssemblyInfo.cs
+C:\Users\wildbober228\source\repos\UDP\UDP\obj\Debug\net5.0\UDP.csproj.CoreCompileInputs.cache
+C:\Users\wildbober228\source\repos\UDP\UDP\obj\Debug\net5.0\UDP.dll
+C:\Users\wildbober228\source\repos\UDP\UDP\obj\Debug\net5.0\ref\UDP.dll
+C:\Users\wildbober228\source\repos\UDP\UDP\obj\Debug\net5.0\UDP.pdb
+C:\Users\wildbober228\source\repos\UDP\UDP\obj\Debug\net5.0\UDP.genruntimeconfig.cache
+C:\Users\wildbober228\source\repos\UDP\UDP\obj\Debug\net5.0\UDP.csprojAssemblyReference.cache
